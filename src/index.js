@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<<<<<<< HEAD
 import $ from 'jquery';
 import Popper from 'popper.js';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
@@ -14,6 +15,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 //   Test
 //   </p>
 
+=======
+>>>>>>> 157ee40b6c077822824e04b0b4185c5e6cf413f7
 
 ReactDOM.render(
   <React.StrictMode>
